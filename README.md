@@ -26,7 +26,7 @@ This project is a **Simple Book Management System** built with PHP, MySQL, and H
 
 ## Task submission
 
-Please pull from this repository and after finishing this task please push the changes on branch named submission and you submission should contain all files that allow your the task to run
+Please pull from this repository and after finishing this task please push the changes on branch named your sur_name and you submission should contain all files that allow your the task to run
 #### Files
 - Html files
 - Php files
